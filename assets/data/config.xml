@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<services>
+		
+		<service id='loginService'
+			type='remoteObject'
+			destination='Login'
+			showBusyCursor='true'> 
+		
+			<channelSet>
+				<channel id='pyamf-channel'
+					uri='http://gcalserver.appspot.com/' />			
+			</channelSet>
+			
+			<operation name='login'
+				isTesting='false'/>
+				
+		</service>
+	
+		<service id='userService'
+			type='remoteObject'
+			destination='User'
+			showBusyCursor='true'>
+			
+			<channelSet>
+				<channel id='pyamf-channel'
+					uri='http://gcalserver.appspot.com/' />			
+			</channelSet>
+
+			<operation name='get_users'
+				isTesting='false' />
+
+		</service>
+
+		<service id='eventService'
+			type='remoteObject'
+			destination='Event'
+			showBusyCursor='true'>
+			
+			<channelSet>
+				<channel id='pyamf-channel'
+					uri='http://gcalserver.appspot.com/' />			
+			</channelSet>
+
+			<operation name='get_events'
+				isTesting='false' />
+
+		</service>
+		
+	</services>
+</config>

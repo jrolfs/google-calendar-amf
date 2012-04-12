@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:WindowedApplication xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:control="com.realeyes.gcalamf.control.*"
+	initialize="_onInitialize();">
+	
+	
+	<mx:Script>
+		<![CDATA[
+			import com.realeyes.gcalamf.control.events.LoginEvent;
+			import com.realeyes.gcalamf.control.events.GetEventsEvent;
+			import com.realeyes.gcalamf.control.events.InitializeEvent;
+			import com.realeyes.gcalamf.control.commands.InitializeCommand;
+			import com.realeyes.gcalamf.business.delegates.EventDelegate;
+			
+			
+			private function _onInitialize():void
+			{
+				new InitializeEvent( InitializeEvent.INITIALIZE ).dispatch();
+			}
+			
+			private function _onLoginTestClick():void
+			{
+				new LoginEvent( LoginEvent.LOGIN,
+								'jamie.rolfs@gmail.com',
+								'orCH1d'
+								).dispatch();
+			}
+			
+			private function _onEventsTestClick():void
+			{
+				new GetEventsEvent(	GetEventsEvent.GET_EVENTS ).dispatch();
+			}
+			
+		]]>
+	</mx:Script>
+	
+	
+	<control:GoogleCalendarAMFFrontController id="frontController"/>
+	
+	
+	<mx:Button id="loginTest_btn"
+		label="Login"
+		click="_onLoginTestClick();" />
+	
+	<mx:Button id="eventsTest_btn"
+		label="Get Events"
+		click="_onEventsTestClick();" />
+	
+</mx:WindowedApplication>

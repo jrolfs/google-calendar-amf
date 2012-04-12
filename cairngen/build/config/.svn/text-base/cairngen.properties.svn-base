@@ -1,0 +1,23 @@
+####################################### VERSION #######################################
+cairngen.author           =Eric J. Feminella
+cairngen.uri              =http://www.ericfeminella.com/cairngen
+cairngen.version          =2.1
+cairngen.license          =MIT license
+
+
+################################ TEMPLATE PROPERTIES ##################################
+cairngorm.templates.dir   =build/templates
+
+
+################################ CAIRNGORM DIRECTORIES ################################
+cairngorm.framework.name  =realeyes
+business.dir              =business
+commands.dir              =control/commands
+control.dir               =control
+events.dir                =control/events
+model.dir                 =model
+view.dir                  =view
+vo.dir                    =model/vo
+
+########################### CAIRNGORM VALUE OBJECT TEMPLATE ###########################
+vo.registerSuffix	     =RegisterClass

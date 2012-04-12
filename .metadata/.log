@@ -1,0 +1,16 @@
+!SESSION 2010-06-02 23:22:26.565 -----------------------------------------------
+eclipse.buildId=M20090917-0800
+java.version=1.6.0_17
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/Jamie/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/Jamie/Dev/POC/GoogleCalendarAMF -keyring /Users/Jamie/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.equinox.p2.repository 4 0 2010-06-02 23:22:27.450
+!MESSAGE ProvisioningEventBus could not be obtained. Metadata caches may not be cleaned up properly.
+
+!ENTRY org.eclipse.ui 2 2 2010-06-02 23:22:33.080
+!MESSAGE Perspective Flash External has beed made into a local copy
+
+!ENTRY org.eclipse.core.net 1 0 2010-06-02 23:22:34.578
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates
+END
+constant-declarations-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/constant-declarations-divider.tpl
+END
+getter-setter-declarations-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/getter-setter-declarations-divider.tpl
+END
+file-header-copy.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/file-header-copy.tpl
+END
+declarations-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/declarations-divider.tpl
+END
+singleton-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/singleton-divider.tpl
+END
+event-handlers-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/event-handlers-divider.tpl
+END
+model-comments.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/model-comments.tpl
+END
+imports-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/imports-divider.tpl
+END
+delegate-comments.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/delegate-comments.tpl
+END
+constant-declarations-extraindent-divider.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/constant-declarations-extraindent-divider.tpl
+END

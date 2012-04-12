@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0
+END
+Services.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/Services.tpl
+END
+ValueObject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/ValueObject.tpl
+END
+CommandIncludeDelegate.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/CommandIncludeDelegate.tpl
+END
+CommandExcludeDelegate.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/CommandExcludeDelegate.tpl
+END
+BusinessDelegate.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/BusinessDelegate.tpl
+END
+FrontController.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/FrontController.tpl
+END
+ValueObjectRegisterClass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/ValueObjectRegisterClass.tpl
+END
+Event.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ABADev/!svn/ver/297/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/Event.tpl
+END
+ModelLocator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ABADev/!svn/ver/291/trunk/ABAClassroomLibrary/cairngen/build/templates/realeyes1.0/ModelLocator.tpl
+END
